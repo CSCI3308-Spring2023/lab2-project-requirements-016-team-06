@@ -19,7 +19,7 @@ git commit -m "add team document"
 git push
 ```
 
-## Names
+```Names
 Zoie Nuno 		wyntersmith
 Elizabeth Gyimesi	azile-github
 Andrew	Pleeter 	anpl1623
