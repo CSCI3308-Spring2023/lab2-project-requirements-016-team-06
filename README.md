@@ -18,3 +18,9 @@ git add submission
 git commit -m "add team document"
 git push
 ```
+
+## Names
+Zoie Nuno 	wyntersmith
+Elizabeth	azile-github
+Andrew		anpo1623
+Ainsley		ainsfletcher
