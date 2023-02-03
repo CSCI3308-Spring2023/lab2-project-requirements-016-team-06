@@ -20,7 +20,7 @@ git push
 ```
 
 ## Names
-Zoie Nuno 	wyntersmith
-Elizabeth	azile-github
-Andrew		anpo1623
-Ainsley		ainsfletcher
+Zoie Nuno 		wyntersmith
+Elizabeth Gyimesi	azile-github
+Andrew	Pleeter 	anpl1623
+Ainsley	Fletcher	ainsfletcher
