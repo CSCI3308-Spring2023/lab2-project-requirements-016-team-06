@@ -18,6 +18,10 @@ git add submission
 git commit -m "add team document"
 git push
 ```
+## Team Number
+Recitation 016 Team 6
+
+
 ## Names
 ```Names
 Zoie Nuno 		wyntersmith
